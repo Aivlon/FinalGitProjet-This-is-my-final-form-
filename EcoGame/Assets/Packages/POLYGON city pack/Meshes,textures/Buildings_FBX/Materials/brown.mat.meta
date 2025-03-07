@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a6941e7aa2fe245a783deeff326577e8
+timeCreated: 1520410837
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/Materials/brown.mat
+  uploadId: 658773

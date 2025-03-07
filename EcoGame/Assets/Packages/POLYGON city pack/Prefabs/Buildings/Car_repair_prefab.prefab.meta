@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f6f4e1e9954194dc28788d381da3b702
+timeCreated: 1517412634
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Buildings/Car_repair_prefab.prefab
+  uploadId: 658773

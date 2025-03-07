@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5568c374b82b4ead93bc194d6ce848a
+timeCreated: 1520410837
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/Materials/stop_sign.mat
+  uploadId: 658773

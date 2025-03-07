@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b9e2bea7678454e35a2cce8e10196a5b
+timeCreated: 1517452307
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Material_meshs/grass walkWay.mat
+  uploadId: 658773

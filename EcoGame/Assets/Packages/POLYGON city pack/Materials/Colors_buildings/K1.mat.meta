@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 241fefb8f82084a7f9665630c1a1c4b0
+timeCreated: 1517355553
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Colors_buildings/K1.mat
+  uploadId: 658773

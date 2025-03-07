@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 591b8bae40b184e7599261800c72dd7a
+timeCreated: 1517507521
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/Stone 2 Prefab.prefab
+  uploadId: 658773

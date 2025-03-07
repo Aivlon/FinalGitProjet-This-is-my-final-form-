@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7048e1f1d1aaa4f9186ea670022841f5
+timeCreated: 1520410815
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/Materials/Door2.mat
+  uploadId: 658773

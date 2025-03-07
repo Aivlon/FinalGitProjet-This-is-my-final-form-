@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d29f3a9e7bfd54afb9fbded37603b97c
+timeCreated: 1517355424
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Colors_buildings/I3.mat
+  uploadId: 658773

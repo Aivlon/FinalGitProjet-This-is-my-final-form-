@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 141f96d2524fc45fc8a575946f678d8b
+timeCreated: 1517502524
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/Flower 1 prefab C.prefab
+  uploadId: 658773

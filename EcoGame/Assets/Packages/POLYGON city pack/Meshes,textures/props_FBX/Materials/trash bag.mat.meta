@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: da6c95ee8284043e38d7e6604a88b860
+timeCreated: 1520410813
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials/trash bag.mat
+  uploadId: 658773

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 97d960b942d19415fb28084929ef74de
+timeCreated: 1517500924
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/drain 2 prefab.prefab
+  uploadId: 658773

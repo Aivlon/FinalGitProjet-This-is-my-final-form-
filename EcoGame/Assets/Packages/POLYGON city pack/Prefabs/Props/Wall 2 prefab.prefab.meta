@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49613fe140273459c88ded722b80e3a1
+timeCreated: 1517530850
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/Wall 2 prefab.prefab
+  uploadId: 658773

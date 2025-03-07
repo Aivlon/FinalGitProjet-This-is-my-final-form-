@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7f75a5577edb414d9ac9ffc92217acd
+timeCreated: 1517527473
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Material_meshs/trashcan.mat
+  uploadId: 658773

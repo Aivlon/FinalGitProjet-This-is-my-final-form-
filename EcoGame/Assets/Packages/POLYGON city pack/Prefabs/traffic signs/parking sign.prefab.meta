@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2585db03d6be848f38fe9f8f5aff432f
+timeCreated: 1517439279
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/traffic signs/parking sign.prefab
+  uploadId: 658773

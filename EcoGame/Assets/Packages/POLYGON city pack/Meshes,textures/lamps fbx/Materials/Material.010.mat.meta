@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db2da58d3beca4ab78ac1cbd48f4ed62
+timeCreated: 1520410847
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/lamps fbx/Materials/Material.010.mat
+  uploadId: 658773

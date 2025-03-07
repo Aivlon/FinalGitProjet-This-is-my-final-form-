@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71fde8c512d654e76ba4ea6843f10e75
+timeCreated: 1517850486
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/Materials/Stone.mat
+  uploadId: 658773

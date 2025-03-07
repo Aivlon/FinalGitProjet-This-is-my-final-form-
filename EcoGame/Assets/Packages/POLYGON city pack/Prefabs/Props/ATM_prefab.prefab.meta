@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 66a66397a7eee46beaef1b8f8ea2d602
+timeCreated: 1517459527
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/ATM_prefab.prefab
+  uploadId: 658773

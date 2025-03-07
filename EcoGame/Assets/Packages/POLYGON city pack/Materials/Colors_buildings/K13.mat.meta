@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9239ae0a9844548f4b801e777410acc9
+timeCreated: 1517504615
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Colors_buildings/K13.mat
+  uploadId: 658773

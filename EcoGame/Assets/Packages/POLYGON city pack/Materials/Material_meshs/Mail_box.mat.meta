@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ec10d9b0f28846c9bd66b32508853d4
+timeCreated: 1517504465
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Materials/Material_meshs/Mail_box.mat
+  uploadId: 658773

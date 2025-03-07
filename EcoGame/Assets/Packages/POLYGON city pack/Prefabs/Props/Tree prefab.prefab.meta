@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 702f9d3e49cf54c9bbd0193e382f7877
+timeCreated: 1517527850
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107224
+  packageName: CITY package
+  packageVersion: 1.0
+  assetPath: Assets/POLYGON city pack/Prefabs/Props/Tree prefab.prefab
+  uploadId: 658773
