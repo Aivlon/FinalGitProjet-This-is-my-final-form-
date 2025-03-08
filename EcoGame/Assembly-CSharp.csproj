@@ -50,23 +50,18 @@
     <Compile Include="Assets\Character\Scripts\ThirdPersonOrbitCamBasic.cs" />
     <Compile Include="Assets\Scripts\Main menu.cs" />
     <Compile Include="Assets\Items\Scripts\ItemData.cs" />
-    <Compile Include="Assets\Scripts\BoatCtrl.cs" />
     <Compile Include="Assets\Items\Scripts\Item.cs" />
-    <Compile Include="Assets\Scripts\MusiqueManager.cs" />
+    <Compile Include="Assets\Character\Attaques\Prefabs\GraineExplosive.cs" />
     <Compile Include="Assets\Character\Scripts\BasicBehaviour.cs" />
     <Compile Include="Assets\Character\Scripts\AimBehaviourBasic.cs" />
     <Compile Include="Assets\Character\Scripts\MoveBehaviour.cs" />
     <Compile Include="Assets\AI proto\Scripts\TargetScript.cs" />
     <Compile Include="Assets\Character\Scripts\FlyBehaviour.cs" />
-    <Compile Include="Assets\Mobs\Scripts\Enemyunderattaque.cs" />
-    <Compile Include="Assets\Character\Scripts\LancerGraineExplosive.cs" />
+    <Compile Include="Assets\Character\Scripts\LancerGraine.cs" />
     <Compile Include="Assets\Mobs\Scripts\EnemyAiFirstVersion.cs" />
     <Compile Include="Assets\Scripts\PickupItem.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
-    <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Character\Attaques\graine explosive\GraineExplosive.cs" />
     <Compile Include="Assets\AI proto\Scripts\Player.cs" />
-    <Compile Include="Assets\DetectionEnnemis.cs" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\AI proto\ML-Agents\Timers\SampleScene_timers.json" />
     <None Include="Assets\Packages\Resources\BillingMode.json" />
@@ -84,12 +79,10 @@
     <None Include="Assets\Packages\Text Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Packages\Text Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\Stylized Lava Materials\SimpleSky\ReadMe.txt" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\AI proto\ML-Agents\Timers\Scene proto_timers.json" />
     <None Include="Assets\Packages\Text Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\POLYGON city pack\Read_me.txt" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Packages\Text Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Packages\Text Pro\Fonts\LiberationSans - OFL.txt" />
@@ -834,9 +827,6 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.InputSystem.ForUI">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
@@ -873,17 +863,14 @@
     <Reference Include="Unity.Timeline">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Toonshader.Editor">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.Toonshader.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
@@ -897,14 +884,8 @@
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.FilmInternalUtilities.Editor">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.FilmInternalUtilities.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.FilmInternalUtilities">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.FilmInternalUtilities.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
@@ -947,9 +928,6 @@
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Toonshader">
-      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.Toonshader.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
@@ -1019,6 +997,9 @@
     </Reference>
     <Reference Include="Unity.InputSystem">
       <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
+      <HintPath>C:\Users\adrie\OneDrive\Bureau\Proj\epita-prepa-computer-science-proj-s2-2029-prs-SaveThePlanet\EcoGame\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
